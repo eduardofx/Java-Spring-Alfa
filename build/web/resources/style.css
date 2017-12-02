@@ -1,0 +1,12 @@
+*{font-family: sans-serif;}
+form{width: 800px; margin: 0 auto;}
+label{color: #717171; text-transform: uppercase;}
+input{color: #f1f1f1;}
+legend{color: #717171; text-transform: uppercase;}
+input[type="reset"],input[type="submit"] { 
+    background: #5687bb; width: 100px; padding: 8px 10px; border: none; color: #fff;
+    cursor: pointer;
+}
+input[type="reset"]:hover,input[type="submit"]:hover { 
+    background: #324f6d;
+}
